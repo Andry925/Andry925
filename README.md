@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Andry925](https://github.com/Andry925)
 
-- 💬 Ask me about **Django, Python, Thingsboard gateway**
+- 💬 Ask me about **Django, Python, Thingsboard IOT gateway**
 
 - 📫 How to reach me **rega600b@gmail.com**
 
