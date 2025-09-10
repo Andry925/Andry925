@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">A passionate backend django developer</h3>
+<h3 align="center">A passionate IOT developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andry925&label=Profile%20views&color=0e75b6&style=flat" alt="andry925" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Andry925](https://github.com/Andry925)
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, Thingsboard gateway**
 
 - 📫 How to reach me **rega600b@gmail.com**
 
